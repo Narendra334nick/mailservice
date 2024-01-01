@@ -1,0 +1,1 @@
+export const mandatoryFields = [`to`,]
